@@ -29,7 +29,7 @@
 [![Apple TV 4K (1st generation)](https://img.shields.io/badge/Apple%20TV%204K%20(1st%20generation)-07c160?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP769)
 [![MacBook Pro (Retina, 13-inch, Mid 2014)](https://img.shields.io/badge/MacBook%20Pro%20(Retina%2C%2013--inch%2C%20Mid%202014)-5c2d91?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP703)
 
-### Consoles or Gaming Platforms
+### Consoles & Gaming Platforms
 
 [![PlayStation 5](https://img.shields.io/badge/PlayStation%205-0070d1?style=for-the-badge&logo=playstation&logoColor=ffffff)](https://my.playstation.com/profile/T0nyC6an9)
 [![Xbox Series X](https://img.shields.io/badge/Xbox%20Series%20X-000000?style=for-the-badge&logo=xbox&logoColor=ffffff)](https://account.xbox.com/zh-hk/profile?gamertag=T0nyC6an9)
