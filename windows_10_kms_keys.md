@@ -10,7 +10,7 @@ Windows 10 **Pro Education** | 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
 Windows 10 **Education** | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 Windows 10 **Enterprise** | NPPR9-FWDCX-D2C8J-H872K-2YT43
 Windows 10 **Enterprise G** | YYVX9-NTFWV-6MDM3-9PT4T-4M68B
-|
+-|-
 Windows 10 **Pro N** | MH37W-N47XK-V7XM9-C7227-GCQG9
 Windows 10 **Pro Workstations N** | 9FNHH-K3HBT-3W4TD-6383H-6XYWF
 Windows 10 **Pro Education N** | YVWGF-BXNMC-HTQYQ-CPQ99-66QFC
@@ -24,10 +24,10 @@ EDITION | KEY
 :-|:-
 Windows 10 **Enterprise LTSC 2019** | M7XTQ-FN8P6-TTKYV-9D4CC-J462D
 Windows 10 **Enterprise LTSC N 2019** | 2NFX-8DJQP-P6BBQ-THF9C-7CG2H
-|
+-|-
 Windows 10 **Enterprise 2016 LTSB** | DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
 Windows 10 **Enterprise 2016 LTSB N** | FFDN-GRT3P-VKWWX-X7T3R-8B639
-|
+-|-
 Windows 10 **Enterprise 2015 LTSB** | WNMTR-4C88C-JK8YV-HQ7T2-76DF9
 Windows 10 **Enterprise 2015 LTSB N** | 2F77B-TNFGY-69QQF-B8YKP-D69TJ
 

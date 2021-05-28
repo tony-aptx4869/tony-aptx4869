@@ -35,4 +35,4 @@ and use the KMS Server address above to activate Office.
 
 1. [Windows 10 KMS Keys](./windows_10_kms_keys.md)
 
-2. [Office Licenses Information](./office_licenses_information)
+2. [Office Licenses Information](./office_licenses_information.md)
