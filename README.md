@@ -9,6 +9,8 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdxkMbirTsG0G63x3QUU8rg?style=social)](https://www.youtube.com/channel/UCdxkMbirTsG0G63x3QUU8rg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonychang1069?style=social)](https://twitter.com/tonychang1069)
 
+### [![KMS SERVERS](https://img.shields.io/badge/KMS%20Servers-21bf27?style=for-the-badge&logo=microsoft&logoColor=ffffff)](./kms_servers.md) **to activate Windows and Office.**
+
 ### Operating Systems
 
 [![macOS Big Sur 11.4](https://img.shields.io/badge/macOS%20Big%20Sur%2011.4-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macos)
