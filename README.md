@@ -45,3 +45,7 @@
 
 [![](https://img.shields.io/badge/iKuai-1d60a5?style=flat-square&logo=Wikiquote&logoColor=ffffff)](https://www.ikuai8.com)
 [![](https://img.shields.io/badge/OpenWRT-4a5ce1?style=flat-square&logo=openwrt&logoColor=ffffff)](https://openwrt.org)
+
+💬 **Tap the picture below to chat.**
+
+[![Chat Room](https://chat.getloli.com/room/@tony-aptx4869.github/svg?width=576&height=360&limit=20&theme=light&fontSize=13&title=tony-aptx4869@github.com:%20~)](https://chat.getloli.com/room/@tony-aptx4869.github)
