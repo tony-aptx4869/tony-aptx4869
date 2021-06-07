@@ -54,8 +54,6 @@
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=ffffff)](https://open.spotify.com/playlist/0J4ZW3WO1dCHxMg1DRJtB7?si=a73e064196944c49)
 
-<iframe src="https://open.spotify.com/embed/playlist/0J4ZW3WO1dCHxMg1DRJtB7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 💬 **Tap the picture below to chat.**
 
 [![Chat Room](https://chat.getloli.com/room/@tony-aptx4869.github/svg?width=576&height=360&limit=20&theme=light&fontSize=13&title=tony-aptx4869@github.com:%20~)](https://chat.getloli.com/room/@tony-aptx4869.github)
