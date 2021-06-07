@@ -9,9 +9,14 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdxkMbirTsG0G63x3QUU8rg?style=social)](https://www.youtube.com/channel/UCdxkMbirTsG0G63x3QUU8rg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonychang1069?style=social)](https://twitter.com/tonychang1069)
 
+
+### 🎵 My Spotify Playlist 🎧
+
+[![Tony's Favorites @ Spotify](https://img.shields.io/badge/Tony%27s%20Favorites%20%40%20Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=ffffff)](https://open.spotify.com/playlist/0J4ZW3WO1dCHxMg1DRJtB7?si=a73e064196944c49)
+
 ### **It's my pleasure to provide KMS Servers to activate Windows and Office.**
 
-[![KMS SERVERS](https://img.shields.io/badge/KMS%20Servers-21bf27?style=for-the-badge&logo=microsoft&logoColor=ffffff)](./kms_servers.md)
+[![KMS SERVERS](https://img.shields.io/badge/KMS%20Servers-0078d7?style=for-the-badge&logo=microsoft&logoColor=ffffff)](./kms_servers.md)
 
 ### Operating Systems
 
@@ -49,10 +54,6 @@
 
 [![](https://img.shields.io/badge/iKuai-1d60a5?style=flat-square&logo=Wikiquote&logoColor=ffffff)](https://www.ikuai8.com)
 [![](https://img.shields.io/badge/OpenWRT-4a5ce1?style=flat-square&logo=openwrt&logoColor=ffffff)](https://openwrt.org)
-
-### 🎵 My Spotify Playlist 🎧
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=ffffff)](https://open.spotify.com/playlist/0J4ZW3WO1dCHxMg1DRJtB7?si=a73e064196944c49)
 
 💬 **Tap the picture below to chat.**
 
