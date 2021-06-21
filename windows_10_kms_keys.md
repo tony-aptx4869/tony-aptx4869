@@ -1,5 +1,7 @@
 # Windows 10 KMS Keys
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.win10kmskeys)
+
 ## Windows 10
 
 EDITION | KEY

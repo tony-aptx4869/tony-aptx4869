@@ -1,5 +1,7 @@
 # Office Licenses Information
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.officelicenses)
+
 Product ID | Product Name | Retail | MAK | KMS | KEY (GVLK for KMS)
 :-|:-|:-:|:-:|:-:|:-
 Access2019Retail | Access 2019 | ✅ | ❌ | ❌ | NR2B6-YBFTG-JFMKK-FGDKF-GX2DJ

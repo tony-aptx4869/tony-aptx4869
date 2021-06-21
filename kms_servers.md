@@ -1,5 +1,7 @@
 # KMS Servers
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.kms)
+
 ## KMS Servers Address
 
 1. kms.aptx4869.tv
