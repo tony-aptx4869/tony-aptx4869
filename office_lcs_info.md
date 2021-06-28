@@ -1,3 +1,12 @@
+---
+layout: page
+title: Office Licenses Information
+date: 2021-05-28 17:55:00
+tags: 
+  - Office
+  - KMS
+  - 激活
+---
 # Office Licenses Information
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.officelicenses)

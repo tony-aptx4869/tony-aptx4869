@@ -1,3 +1,13 @@
+---
+layout: page
+title: KMS Servers
+date: 2021-05-28 17:55:00
+tags: 
+  - Windows
+  - Office
+  - KMS
+  - 激活
+---
 # KMS Servers
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.kms)
