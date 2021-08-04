@@ -20,7 +20,7 @@
 
 ### Operating Systems
 
-[![macOS Big Sur 11.4](https://img.shields.io/badge/macOS%20Big%20Sur%2011.4-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macos)
+[![macOS Big Sur 11.5.1](https://img.shields.io/badge/macOS%20Big%20Sur%2011.5.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macos)
 
 [![Windows 10 21H1](https://img.shields.io/badge/Windows%2010%2021H1-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-5a1739?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
