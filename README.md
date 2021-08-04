@@ -25,7 +25,7 @@
 [![Windows 11 21H2](https://img.shields.io/badge/Windows%2011%2021H2-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-5a1739?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
 [![Kali 2021.2](https://img.shields.io/badge/Kali%202021.2-1f61ff?style=flat-square&logo=Kali%20Linux&logoColor=ffffff)](https://www.kali.org)
-[![Red Star OS 3](https://img.shields.io/badge/Red%20Star%20OS%203-ff0000?style=flat-square&logo=React&logoColor=ffffff)](https://en.wikipedia.org/wiki/Red_Star_OS)
+[![Red Star OS 3](https://img.shields.io/badge/Red%20Star%20OS%203-ff0000?style=flat-square&logo=Apache%20Spark&logoColor=ffffff)](https://en.wikipedia.org/wiki/Red_Star_OS)
 
 ### Devices
 
