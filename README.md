@@ -9,6 +9,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdxkMbirTsG0G63x3QUU8rg?style=social)](https://www.youtube.com/channel/UCdxkMbirTsG0G63x3QUU8rg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonychang1069?style=social)](https://twitter.com/tonychang1069)
 
+📈 **Wakatime Charts**
+
+[![Languages](https://wakatime.com/share/@tony_aptx4869/3146f314-e85f-4758-aefb-2be2df178444.svg)](https://wakatime.com/@tony_aptx4869)
 
 ### 🎵 My Spotify Playlist 🎧
 
@@ -56,7 +59,3 @@
 
 [![](https://img.shields.io/badge/iKuai-1d60a5?style=flat-square&logo=Wikiquote&logoColor=ffffff)](https://www.ikuai8.com)
 [![](https://img.shields.io/badge/OpenWRT-4a5ce1?style=flat-square&logo=openwrt&logoColor=ffffff)](https://openwrt.org)
-
-💬 **Tap the picture below to chat.**
-
-[![Chat Room](https://wakatime.com/share/@tony_aptx4869/0b09f48b-148f-4cb7-ae61-75abe1720b2f.svg](https://wakatime.com/@tony_aptx4869)
