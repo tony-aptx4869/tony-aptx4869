@@ -9,14 +9,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdxkMbirTsG0G63x3QUU8rg?style=social)](https://www.youtube.com/channel/UCdxkMbirTsG0G63x3QUU8rg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonychang1069?style=social)](https://twitter.com/tonychang1069)
 
-### GitHub Stats
+### 📊 GitHub Stats 📈
 
 ![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-aptx4869&count_private=true&show_icons=true&theme=tokyonight)
-
-### 📈 Wakatime Charts 📊
-
-[![Coding Activity Last 7 Days](https://wakatime.com/share/@tony_aptx4869/3146f314-e85f-4758-aefb-2be2df178444.svg)](https://wakatime.com/@tony_aptx4869)
-[![Languages Last 7 Days](https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg)](https://wakatime.com/@tony_aptx4869)
 
 ### 🎵 My Spotify Playlist 🎧
 
