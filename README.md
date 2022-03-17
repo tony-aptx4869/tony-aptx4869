@@ -59,4 +59,4 @@
 
 💬 **Tap the picture below to chat.**
 
-[![Chat Room](https://chat.getloli.com/room/@tony-aptx4869.github/svg?width=576&height=360&limit=20&theme=light&fontSize=13&title=tony-aptx4869@github.com:%20~)](https://chat.getloli.com/room/@tony-aptx4869.github)
+[![Chat Room](https://wakatime.com/share/@tony_aptx4869/0b09f48b-148f-4cb7-ae61-75abe1720b2f.svg](https://wakatime.com/@tony_aptx4869)
