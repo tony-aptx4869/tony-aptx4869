@@ -36,9 +36,10 @@
 ## Devices
 
 [![iPhone XS Max](https://img.shields.io/badge/iPhone%20XS%20Max-4ed44b?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP780)
-[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-watch-series-6)
-[![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple%20music&logoColor=ffffff)](https://www.apple.com/airpods-max/)
 [![MacBook Pro (15-inch, 2018)](https://img.shields.io/badge/MacBook%20Pro%20(15--inch%2C%202018)-353637?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP776)
+[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-watch-series-6)
+
+[![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple%20music&logoColor=ffffff)](https://www.apple.com/airpods-max/)
 [![HomePod](https://img.shields.io/badge/HomePod-fdee21?style=for-the-badge&logo=apple&logoColor=000000)](https://support.apple.com/kb/SP773)
 
 [![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=12609)
