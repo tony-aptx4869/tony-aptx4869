@@ -2,13 +2,11 @@
 *---- Hello from Vulcan.*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.readme)
-
 [![GitHub followers](https://img.shields.io/github/followers/tony-aptx4869?style=social)](https://github.com/tony-aptx4869?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/tony-aptx4869?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/tony-aptx4869)
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Ftony-aptx4869)](http://twitter.com/share?url=https%3A%2F%2Fgithub.com%2Ftony-aptx4869&text=%E5%A4%A7%E7%88%B7%EF%BC%8C%E8%BF%87%E6%9D%A5%E7%8E%A9%E5%91%80%EF%BC%81%E5%95%BE%E5%92%AA%7E%20Come%20and%20have%20fun!%20Chyumi%7E)
-
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdxkMbirTsG0G63x3QUU8rg?style=social)](https://www.youtube.com/channel/UCdxkMbirTsG0G63x3QUU8rg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonychang1069?style=social)](https://twitter.com/tonychang1069)
+[![Twit this](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Ftony-aptx4869)](http://twitter.com/share?url=https%3A%2F%2Fgithub.com%2Ftony-aptx4869&text=%E5%A4%A7%E7%88%B7%EF%BC%8C%E8%BF%87%E6%9D%A5%E7%8E%A9%E5%91%80%EF%BC%81%E5%95%BE%E5%92%AA%7E%20Come%20and%20have%20fun!%20Chyumi%7E)
 
 ## 📊 GitHub Stats 📈
 
