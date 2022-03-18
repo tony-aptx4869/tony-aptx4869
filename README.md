@@ -42,9 +42,9 @@
 [![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple%20music&logoColor=ffffff)](https://www.apple.com/airpods-max/)
 [![HomePod](https://img.shields.io/badge/HomePod-fdee21?style=for-the-badge&logo=apple&logoColor=000000)](https://support.apple.com/kb/SP773)
 
-[![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=12609)
 [![iPad Pro 11-inch (1st generation)](https://img.shields.io/badge/iPad%20Pro%2011--inch%20(1st%20generation)-00caff?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP784)
 [![Apple TV 4K (1st generation)](https://img.shields.io/badge/Apple%20TV%204K%20(1st%20generation)-07c160?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP769)
+[![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=12609)
 [![MacBook Pro (Retina, 13-inch, Mid 2014)](https://img.shields.io/badge/MacBook%20Pro%20(Retina%2C%2013--inch%2C%20Mid%202014)-5c2d91?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP703)
 
 ## Consoles & Gaming Platforms
