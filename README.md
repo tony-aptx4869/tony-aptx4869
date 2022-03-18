@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats 📈
 
-![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-aptx4869&count_private=true&show_icons=true&theme=tokyonight)
+![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-aptx4869&count_private=true&show_icons=true)
 
 ## ⭕️ Wakatime ⭕️
 
