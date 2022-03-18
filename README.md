@@ -1,4 +1,5 @@
 # Live long and prosper! 🖖🏻🖖🏻🖖🏻
+*---- Hello from Vulcan.*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tony-aptx4869.readme)
 
