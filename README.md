@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats 📈
 
 ![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-aptx4869&count_private=true&show_icons=true)
-![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-aptx4869&layout=compact)
+![tony-aptx4869 GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-aptx4869&layout=compact)
 
 ## ⭕️ Wakatime ⭕️
 
