@@ -9,19 +9,25 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdxkMbirTsG0G63x3QUU8rg?style=social)](https://www.youtube.com/channel/UCdxkMbirTsG0G63x3QUU8rg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonychang1069?style=social)](https://twitter.com/tonychang1069)
 
-### 📊 GitHub Stats 📈
+## 📊 GitHub Stats 📈
 
 ![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-aptx4869&count_private=true&show_icons=true&theme=tokyonight)
 
-### 🎵 My Spotify Playlist 🎧
+## ⭕️ Wakatime ⭕️
+
+Languages over 7 Days | Editors over 7 Days
+-- | --
+![tony-aptx4869 Wakatime Languages](https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg) | ![tony-aptx4869 Wakatime Editors](https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg)
+
+## 🎵 My Spotify Playlist 🎧
 
 [![Tony's Favorites @ Spotify](https://img.shields.io/badge/Tony%27s%20Favorites%20%40%20Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=ffffff)](https://open.spotify.com/playlist/0J4ZW3WO1dCHxMg1DRJtB7?si=a73e064196944c49)
 
-### **It's my pleasure to provide KMS Servers to activate Windows and Office.**
+## My KMS Servers
 
 [![KMS SERVERS](https://img.shields.io/badge/KMS%20Servers-0078d7?style=for-the-badge&logo=microsoft&logoColor=ffffff)](./kms_servers.md)
 
-### Operating Systems
+## Operating Systems
 
 [![macOS Monterey 12.2.1](https://img.shields.io/badge/macOS%20Monterey%2012.2.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macos)
 
@@ -30,7 +36,7 @@
 [![Kali 2021.2](https://img.shields.io/badge/Kali%202021.2-1f61ff?style=flat-square&logo=Kali%20Linux&logoColor=ffffff)](https://www.kali.org)
 [![Red Star OS 3](https://img.shields.io/badge/Red%20Star%20OS%203-ff0000?style=flat-square&logo=Apache%20Spark&logoColor=ffffff)](https://en.wikipedia.org/wiki/Red_Star_OS)
 
-### Devices
+## Devices
 
 [![iPhone XS Max](https://img.shields.io/badge/iPhone%20XS%20Max-4ed44b?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP780)
 [![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-watch-series-6)
@@ -43,7 +49,7 @@
 [![Apple TV 4K (1st generation)](https://img.shields.io/badge/Apple%20TV%204K%20(1st%20generation)-07c160?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP769)
 [![MacBook Pro (Retina, 13-inch, Mid 2014)](https://img.shields.io/badge/MacBook%20Pro%20(Retina%2C%2013--inch%2C%20Mid%202014)-5c2d91?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP703)
 
-### Consoles & Gaming Platforms
+## Consoles & Gaming Platforms
 
 [![PlayStation 5](https://img.shields.io/badge/PlayStation%205-0070d1?style=for-the-badge&logo=playstation&logoColor=ffffff)](https://my.playstation.com/profile/T0nyC6an9)
 [![Xbox Series X](https://img.shields.io/badge/Xbox%20Series%20X-000000?style=for-the-badge&logo=xbox&logoColor=ffffff)](https://account.xbox.com/zh-hk/profile?gamertag=T0nyC6an9)
@@ -53,7 +59,7 @@
 [![Apple Arcade](https://img.shields.io/badge/Apple%20Arcade-ffcc33?style=flat-square&logo=apple%20arcade&logoColor=333333)](https://www.apple.com/apple-arcade)
 [![Steam](https://img.shields.io/badge/Steam-1b3471?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/tonychang)
 
-### Virtualization
+## Virtualization
 
 [![](https://img.shields.io/badge/VMWare%20vSphere%20ESXi%206.7%20U3b-60b322?style=for-the-badge&logo=vmware&logoColor=ffffff)](https://www.vmware.com/products/vsphere.html)
 
