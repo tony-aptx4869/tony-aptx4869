@@ -15,8 +15,7 @@
 
 ## ⭕️ Wakatime ⭕️
 
-![tony-aptx4869 Wakatime Languages](https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg)
-![tony-aptx4869 Wakatime Editors](https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg)
+<a href="https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg" width = "280" height = "200" alt="tony-aptx4869 Wakatime Languages" /></a> <a href="https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg" width = "280" height = "200" alt="tony-aptx4869 Wakatime Editors" /></a>
 
 ## 🎵 My Spotify Playlist 🎧
 
