@@ -15,9 +15,8 @@
 
 ## ⭕️ Wakatime ⭕️
 
-Languages over 7 Days | Editors over 7 Days
--- | --
-![tony-aptx4869 Wakatime Languages](https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg) | ![tony-aptx4869 Wakatime Editors](https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg)
+![tony-aptx4869 Wakatime Languages](https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg)
+![tony-aptx4869 Wakatime Editors](https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg)
 
 ## 🎵 My Spotify Playlist 🎧
 
