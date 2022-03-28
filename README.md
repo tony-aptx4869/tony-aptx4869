@@ -13,7 +13,7 @@
 ![tony-aptx4869 GitHub Stats](https://github-readme-stats.vercel.app/api?username=tony-aptx4869&count_private=true&show_icons=true)
 ![tony-aptx4869 GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-aptx4869&layout=compact)
 
-## ⭕️ Wakatime ⭕️
+## ✅ Wakatime ✅
 
 <a href="https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Languages" /></a> <a href="https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Editors" /></a>
 
