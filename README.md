@@ -27,9 +27,9 @@
 
 ## Operating Systems
 
-[![macOS Monterey 12.3](https://img.shields.io/badge/macOS%20Monterey%2012.3-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/macos)
+[![macOS Ventura 13.0.1](https://img.shields.io/badge/macOS%20Ventura%2013.0.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-003bf9?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-003bf9?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-5a1739?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
 [![Kali 2021.2](https://img.shields.io/badge/Kali%202021.2-1f61ff?style=flat-square&logo=Kali%20Linux&logoColor=ffffff)](https://www.kali.org)
 [![Red Star OS 3](https://img.shields.io/badge/Red%20Star%20OS%203-ff0000?style=flat-square&logo=Apache%20Spark&logoColor=ffffff)](https://en.wikipedia.org/wiki/Red_Star_OS)
@@ -38,8 +38,9 @@
 
 [![iPhone XS Max](https://img.shields.io/badge/iPhone%20XS%20Max-4ed44b?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP780)
 [![MacBook Pro (15-inch, 2018)](https://img.shields.io/badge/MacBook%20Pro%20(15--inch%2C%202018)-353637?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP776)
-[![Apple Watch Series 6](https://img.shields.io/badge/Apple%20Watch%20Series%206-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-watch-series-6)
+[![Apple Watch Series 8](https://img.shields.io/badge/Apple%20Watch%20Series%208-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-watch-series-8)
 
+[![AirPods Pro 2nd Gen](https://img.shields.io/badge/AirPods%20Pro%202nd%20Gen-ffffff?style=for-the-badge&logo=apple%20music&logoColor=fa243c)](https://www.apple.com/airpods-pro/)
 [![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple%20music&logoColor=ffffff)](https://www.apple.com/airpods-max/)
 [![HomePod](https://img.shields.io/badge/HomePod-fdee21?style=for-the-badge&logo=apple&logoColor=000000)](https://support.apple.com/kb/SP773)
 
@@ -60,7 +61,7 @@
 
 ## Virtualization
 
-[![](https://img.shields.io/badge/VMWare%20vSphere%20ESXi%206.7%20U3b-60b322?style=for-the-badge&logo=vmware&logoColor=ffffff)](https://www.vmware.com/products/vsphere.html)
+[![VMWare vSphere ESXi](https://img.shields.io/badge/VMWare%20vSphere%20ESXi%206.7%20U3b-60b322?style=for-the-badge&logo=vmware&logoColor=ffffff)](https://www.vmware.com/products/vsphere.html)
 
-[![](https://img.shields.io/badge/iKuai-1d60a5?style=flat-square&logo=Wikiquote&logoColor=ffffff)](https://www.ikuai8.com)
-[![](https://img.shields.io/badge/OpenWRT-4a5ce1?style=flat-square&logo=openwrt&logoColor=ffffff)](https://openwrt.org)
+[![iKuai](https://img.shields.io/badge/iKuai-1d60a5?style=flat-square&logo=Wikiquote&logoColor=ffffff)](https://www.ikuai8.com)
+[![OpenWRT](https://img.shields.io/badge/OpenWRT-4a5ce1?style=flat-square&logo=openwrt&logoColor=ffffff)](https://openwrt.org)
