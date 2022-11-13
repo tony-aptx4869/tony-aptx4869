@@ -40,7 +40,7 @@
 [![MacBook Pro (15-inch, 2018)](https://img.shields.io/badge/MacBook%20Pro%20(15--inch%2C%202018)-353637?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP776)
 [![Apple Watch Series 8](https://img.shields.io/badge/Apple%20Watch%20Series%208-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-watch-series-8)
 
-[![AirPods Pro 2nd Gen](https://img.shields.io/badge/AirPods%20Pro%202nd%20Gen-ffffff?style=for-the-badge&logo=apple%20music&logoColor=fa243c)](https://www.apple.com/airpods-pro/)
+[![AirPods Pro 2nd Gen](https://img.shields.io/badge/AirPods%20Pro%202nd%20Gen-dddddd?style=for-the-badge&logo=apple%20music&logoColor=fa243c)](https://www.apple.com/airpods-pro/)
 [![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple%20music&logoColor=ffffff)](https://www.apple.com/airpods-max/)
 [![HomePod](https://img.shields.io/badge/HomePod-fdee21?style=for-the-badge&logo=apple&logoColor=000000)](https://support.apple.com/kb/SP773)
 
