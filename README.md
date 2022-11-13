@@ -47,6 +47,8 @@
 [![iPad Pro 11-inch (1st generation)](https://img.shields.io/badge/iPad%20Pro%2011--inch%20(1st%20generation)-00caff?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP784)
 [![Apple TV 4K (1st generation)](https://img.shields.io/badge/Apple%20TV%204K%20(1st%20generation)-07c160?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP769)
 [![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=12609)
+
+[![Synology DS918+ with DX517](https://img.shields.io/badge/Synology%20DS918+%20with%20DX517-000000?style=flat-square&logo=synology&logoColor=b5b5b6)](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS918+/enu/Synology_DS918_Plus_Data_Sheet_enu.pdf)
 [![MacBook Pro (Retina, 13-inch, Mid 2014)](https://img.shields.io/badge/MacBook%20Pro%20(Retina%2C%2013--inch%2C%20Mid%202014)-5c2d91?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP703)
 
 ## Consoles & Gaming Platforms
