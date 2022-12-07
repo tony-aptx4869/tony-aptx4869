@@ -15,7 +15,7 @@
 
 ## ✅ Wakatime ✅
 
-<a href="https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/d622dd7a-056d-457c-967f-369fba8e4a97.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Languages" /></a> <a href="https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/64673d9a-0ecb-4c11-bdb9-94eabf21639f.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Editors" /></a>
+<a href="https://wakatime.com/share/@tony_aptx4869/18faaf5d-7ac0-4e74-b4ec-c27a20bd73b7.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/18faaf5d-7ac0-4e74-b4ec-c27a20bd73b7.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Languages" /></a> <a href="https://wakatime.com/share/@tony_aptx4869/cabe44e4-4d78-4e20-a721-1b96163e22b2.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/cabe44e4-4d78-4e20-a721-1b96163e22b2.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Editors" /></a>
 
 ## 🎵 My Spotify Playlist 🎧
 
