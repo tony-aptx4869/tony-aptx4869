@@ -27,7 +27,7 @@
 
 ## Operating Systems
 
-[![macOS Ventura 13.0.1](https://img.shields.io/badge/macOS%20Ventura%2013.0.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
+[![macOS Ventura 13.5.1](https://img.shields.io/badge/macOS%20Ventura%2013.5.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-003bf9?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
 [![Ubuntu 20.04 LTS](https://img.shields.io/badge/Ubuntu%2020.04%20LTS-5a1739?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
