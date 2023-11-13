@@ -14,13 +14,17 @@ tags:
 
 ## KMS Servers Address
 
-1. kms.aptx4869.tv
+**_PORT using 1988 instead of the default 1688!_**
 
-2. kms.aptx4869.app
+1. kms.bemy.dad
 
-3. kms.tonychang.top
+2. kms.b233.icu
 
-4. kms.tonychang1069.top
+3. kms.aptx4869.tv
+
+4. kms.aptx4869.app
+
+5. kms.tonychang1069.top
 
 
 ## How to use
