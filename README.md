@@ -17,13 +17,9 @@
 
 <a href="https://wakatime.com/share/@tony_aptx4869/18faaf5d-7ac0-4e74-b4ec-c27a20bd73b7.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/18faaf5d-7ac0-4e74-b4ec-c27a20bd73b7.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Languages" /></a> <a href="https://wakatime.com/share/@tony_aptx4869/cabe44e4-4d78-4e20-a721-1b96163e22b2.svg" target="_blank"><img src="https://wakatime.com/share/@tony_aptx4869/cabe44e4-4d78-4e20-a721-1b96163e22b2.svg" width = "360" height = "270" alt="tony-aptx4869 Wakatime Editors" /></a>
 
-## My KMS Servers
-
-[![KMS SERVERS](https://img.shields.io/badge/KMS%20Servers-0078d7?style=for-the-badge&logo=microsoft&logoColor=ffffff)](./kms_servers.md)
-
 ## Operating Systems
 
-[![macOS Sonoma 14.1.1](https://img.shields.io/badge/macOS%20Sonoma%2014.1.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
+[![macOS Sequoia 15.5](https://img.shields.io/badge/macOS%20Sequoia%2015.5-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-003bf9?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
 [![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu%2022.04%20LTS-5a1739?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
@@ -31,6 +27,9 @@
 [![Red Star OS 3](https://img.shields.io/badge/Red%20Star%20OS%203-ff0000?style=flat-square&logo=Apache%20Spark&logoColor=ffffff)](https://en.wikipedia.org/wiki/Red_Star_OS)
 
 ## Devices
+[![DJI Mini 4 Pro](https://img.shields.io/badge/DJI%20Mini%204%20Pro-fab70c?style=for-the-badge&logo=dji&logoColor=000000)](https://www.dji.com/mini-4-pro)
+[![DJI Osmo Mobile 7P](https://img.shields.io/badge/DJI%20Osmo%20Mobile%207P-c5f74f?style=for-the-badge&logo=dji&logoColor=000000)](https://www.dji.com/osmo-mobile-7-series)
+
 [![iPhone 15 Pro Max](https://img.shields.io/badge/iPhone%2015%20Pro%20Max-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-15-pro)
 [![Apple Watch Series 8](https://img.shields.io/badge/Watch%20Series%208-395eb3?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP878)
 [![MacBook Pro (15-inch, 2018)](https://img.shields.io/badge/MacBook%20Pro%20(15--inch%2C%202018)-353637?style=for-the-badge&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP776)
@@ -38,8 +37,8 @@
 [![iPad Pro 11-inch (4th generation)](https://img.shields.io/badge/iPad%20Pro%2011--inch%20(4th%20generation)-0055ff?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/ipad-pro)
 [![Apple TV 4K (3rd generation)](https://img.shields.io/badge/TV%204K%20(3rd%20generation)-000000?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/apple-tv-4k)
 
-[![AirPods Pro 2nd Gen](https://img.shields.io/badge/AirPods%20Pro%202nd%20Gen-dddddd?style=for-the-badge&logo=apple%20music&logoColor=fa243c)](https://www.apple.com/airpods-pro/)
-[![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple%20music&logoColor=ffffff)](https://www.apple.com/airpods-max/)
+[![AirPods Pro 2](https://img.shields.io/badge/AirPods%20Pro%202-dddddd?style=for-the-badge&logo=apple&logoColor=fa243c)](https://www.apple.com/airpods-pro/)
+[![AirPods Max](https://img.shields.io/badge/AirPods%20Max-fa243c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/airpods-max/)
 [![HomePod (1st generation)](https://img.shields.io/badge/HomePod%20(1st%20generation)-fdee21?style=for-the-badge&logo=apple&logoColor=000000)](https://support.apple.com/kb/SP773)
 [![Synology DS918+ with DX517](https://img.shields.io/badge/Synology%20DS918+%20with%20DX517-000000?style=for-the-badge&logo=synology&logoColor=b5b5b6)](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS918+/enu/Synology_DS918_Plus_Data_Sheet_enu.pdf)
 
@@ -48,6 +47,7 @@
 [![Apple TV 4K (1st generation)](https://img.shields.io/badge/TV%204K%20(1st%20generation)-339900?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP769)
 [![Xiaomi 10 Ultra](https://img.shields.io/badge/Xiaomi%2010%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://en.wikipedia.org/wiki/Xiaomi_Mi_10_Ultra)
 [![MacBook Pro (Retina, 13-inch, Mid 2014)](https://img.shields.io/badge/MacBook%20Pro%20(Retina%2C%2013--inch%2C%20Mid%202014)-5c2d91?style=flat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP703)
+[![AirPods Pro 1](https://img.shields.io/badge/AirPods%20Pro%201-dddddd?style=flat-square&logo=apple&logoColor=fa243c)](https://support.apple.com/111861)
 
 ## Consoles & Gaming Platforms
 
