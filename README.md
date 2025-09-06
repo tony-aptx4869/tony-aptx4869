@@ -19,7 +19,7 @@
 
 ## Operating Systems
 
-[![macOS Sequoia 15.5](https://img.shields.io/badge/macOS%20Sequoia%2015.5-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
+[![macOS Sequoia 15.6.1](https://img.shields.io/badge/macOS%20Sequoia%2015.6.1-f0403c?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-003bf9?style=for-the-badge&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 
 [![Ubuntu 22.04 LTS](https://img.shields.io/badge/Ubuntu%2022.04%20LTS-5a1739?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com)
